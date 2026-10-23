@@ -1,5 +1,7 @@
 # devops-lab2
 Ćwiczenie z podstaw Git i GitHub
+Nazwa: DevObs Lab 2
+
  Wykorzystane narzędzia
 - Git
 - GitHub
