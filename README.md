@@ -16,5 +16,9 @@ Instrukcja uruchomienia / pracy
 6. Praca na gałęziach: `git checkout -b nowa-galaz`
 7. Scalanie zmian: `git merge`
 
+Git-kontrola wersji
+GitHub-wspolpraca nad kodem
+
+
 Autor
 Gabriela Stochel s181804
