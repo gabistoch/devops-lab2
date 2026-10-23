@@ -16,7 +16,12 @@ Instrukcja uruchomienia / pracy
 6. Praca na gałęziach: `git checkout -b nowa-galaz`
 7. Scalanie zmian: `git merge`
 
-Git-historia zmin GitHub- Pull Request i code review
+
+Git-historia zmin 
+GitHub- Pull Request i code review
+
+Git-kontrola wersji
+
 
 Autor
 Gabriela Stochel s181804
